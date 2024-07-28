@@ -36,3 +36,28 @@
       - if three number are even, then the different one is odd one among them.
       - if three number are odd, then the different one is odd one among them.
     - if all are different, even or odd, then print no number is odd one among them.
+11. Write a program to accept the annual income from the user and calculate tax based of the below conditions:
+    - In each case provide standard deduction of 50,000 INR, calculate taxable income by subtracting 50,000 form annual income.
+      - if the taxable income is:
+          - less than equal to 3,00,000 INR tax rate will be 0%.
+          - greater than 3,00,000 INR and less than or equal to 5,00,000 INR tax rate will be 5%.
+          - greater than 5,00,000 INR and less than or equal to 10,00,000 INR tax rate will be 15%.
+          - greater than 10,00,000 INR and less than or equal to 15,00,000 INR tax rate will be 20%.
+          - greater than 15,00,000 INR and less than or equal to 25,00,000 INR tax rate will be 25%.
+          - greater than 25,00,000 INR tax rate will be 30%.
+
+12. Write a program to accept birth year of user in YYYY format (like 1983) and print the chinese zodiac of the user.
+    - Chinese zodiac is represented by an animal sign as follows:
+      - 0: monkey
+      - 1: rooster
+      - 2: dog
+      - 3: pig
+      - 4: rat
+      - 5: ox
+      - 6: tiger
+      - 7: rabbit
+      - 8: dragon
+      - 9: snake
+      - 10: horse
+      - 11: sheep
+    - To get the corresponding value modulo-division year by 12
