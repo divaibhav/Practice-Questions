@@ -32,7 +32,7 @@
     
     Hint:
     - i should be initialized with stating point 
-    - i shuold be less than end point
+    - i should be less than end point
     ```
 11. Write a program which accepts the starting point and end point from the user and print the sum and count of all the even values between the starting point and end point. Starting point and end point both are inclusive.
      ```
