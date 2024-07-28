@@ -2,7 +2,7 @@
 1. Write a program to sum all the entered value until user enter 0 to stop.
 2. Write a program to check all the values entered by user, if the entered value is even print, if the entered value is odd print odd, if the entered value is 0 stop.
 3. Write a program to print the sum of all the even values entered by user until user enter 0 to stop.
-4. Write a program to calculate sum of all the values entered also count the number of values entered by user. Print the sum of the values and count.
+4. Write a program to calculate sum of all the values entered also count the number of values entered by user, stop when user enter 0. Print the sum of the values and count.
 5. Write a program to print numbers starting form 1 to 20.
 6. Write a program to print all the odd number form 1 to 20. Hint check i % 2 != 0 and print i if it is odd.
 7. Write a program which accept a magic number form the user, print winner and stop if user entered magic number. In this particular question magic number is the question number. `:-)`
