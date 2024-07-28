@@ -45,6 +45,7 @@
           - greater than 10,00,000 INR and less than or equal to 15,00,000 INR tax rate will be 20%.
           - greater than 15,00,000 INR and less than or equal to 25,00,000 INR tax rate will be 25%.
           - greater than 25,00,000 INR tax rate will be 30%.
+    - On the basis of the condition calculate tax amount and print.K 
 
 12. Write a program to accept birth year of user in YYYY format (like 1983) and print the chinese zodiac of the user.
     - Chinese zodiac is represented by an animal sign as follows:
