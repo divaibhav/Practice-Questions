@@ -7,6 +7,11 @@
 6. Write a program to print all the odd number form 1 to 20. Hint check i % 2 != 0 and print i if it is odd.
 7. Write a program which accept a magic number form the user, print winner and stop if user entered magic number. In this particular question magic number is the question number. `:-)`
 8. Write a program which accept a magic number form the user, print winner and stop if user entered magic number otherwise print try again. Also stop when user enter 0. In this particular question magic number is the question number. `:-)`
+   
+ 
+![pic](./resource/pic1.jpg)
+
+
 9. Write a program to print all the numbers divisible by 5 from 1 to 100.
    ```
    Sample output
