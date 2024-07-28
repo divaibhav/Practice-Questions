@@ -12,7 +12,7 @@
 ![pic](./resource/pic1.jpg)
 
 
-9. Write a program to print all the numbers divisible by 5 from 1 to 100.
+9. Write a program to print all the numbers divisible by 5, from 1 to 100.
    ```
    Sample output
    5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 
@@ -29,6 +29,10 @@
     10 + 11 + 12 + 13 + 14
     15 is not considered for sum as loop must iterate < 15
     so the result is 60
+    
+    Hint:
+    - i should be initialized with stating point 
+    - i shuold be less than end point
     ```
 11. Write a program which accepts the starting point and end point from the user and print the sum and count of all the even values between the starting point and end point. Starting point and end point both are inclusive.
      ```
