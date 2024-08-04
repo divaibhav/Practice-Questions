@@ -150,3 +150,13 @@
 9. Generate the multiplication table for a given number N up to 10. Accept the number N from user.
 10. Write a program to calculate number<sup>power</sup> (number raised to the power) using a loop. Accept the number and
     power from user.
+
+Sample
+
+number = 2, power = 5
+
+output = 32
+Explanation
+
+2<sup>5</sup> = 32
+   
