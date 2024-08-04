@@ -131,8 +131,9 @@
    sum = 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 = 33 
    ```
 
-8. Write a program to check if a given three number N is an Armstrong number if yes, print Armstrong number otherwise
-   print Not an Armstrong number. Accept the three digits number N from user.
+8. Write a program to check if a given three-digit number N is an Armstrong number if yes, print Armstrong number
+   otherwise
+   print Not an Armstrong number. Accept the three-digit number N from user.
    ```
    Sample 
    Input N = 371
