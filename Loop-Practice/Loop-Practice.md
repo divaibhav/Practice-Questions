@@ -76,9 +76,9 @@
       5 factorial => 5 * 4 * 3 * 2 * 1 => 120
    ```
 
-5. Write a program that checks if a given number N is prime if yes print number N is prime number otherwise print number
-   N is not a prime number.
-   Accept the number N from user.
+5. Write a program that checks if a given integer inputNumber is prime number, if yes print inputNumber is prime number
+   otherwise print inputNumber
+   is not a prime number. Accept the inputNumber from user.
 
 6. Write a program to print the first N numbers in the Fibonacci sequence. Accept the number N from user.
    Constrain N >= 0 and N <= 20. (keep value of N small. )
