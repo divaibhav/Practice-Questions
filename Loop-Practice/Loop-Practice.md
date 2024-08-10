@@ -77,8 +77,7 @@
    ```
 
 5. Write a program that checks if a given integer inputNumber is prime number, if yes print inputNumber is prime number
-   otherwise print inputNumber
-   is not a prime number. Accept the inputNumber from user.
+   otherwise print inputNumber is not a prime number. Accept the inputNumber from user.
 
 6. Write a program to print the first N numbers in the Fibonacci sequence. Accept the number N from user.
    Constrain N >= 0 and N <= 20. (keep value of N small. )
