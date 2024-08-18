@@ -2,7 +2,7 @@
 
 1. Write a program to print `Hello World` on console, and ask user,
    `Do you want to continue? Press 1 to continue, Press 0 to exit`. Accept user choice.
-    - ```
+   ```
      Sample:
         Hello World
         Do you want to continue? Press 1 to continue, Press 0 to exit
@@ -15,7 +15,7 @@
         Output is printed on screen, not get the user input, based on user input 1, we will continue to print again. When user input is 0, we stops repeating.
      ```
 2. Write a program print following menu to user:
-    - ```
+   ```
      Main Menu:
      Press 1 for Addition,
      Press 2 for Subtraction,
@@ -23,9 +23,8 @@
      Press 4 fot Division,
      Press 0 to exit
      ```
-    - Accept user choice and based on choice perform operation by printing operation name and repeat until user enters
-      0.
-    - ```
+   Accept user choice and based on choice perform operation by printing operation name and repeat until user enters 0.
+   ```
      Ouptut
      Main Menu:
      Press 1 for Addition,
@@ -65,7 +64,7 @@
      ```
 3. Write a program to accept number from user, until user press 0 to exit. Print the count of all the entered number
    exclude 0.
-    - ```Sample
+   ```Sample
       output : Enter an integer number, Press 0 to exit
       input : 435
       output : Enter an integer number, Press 0 to exit
@@ -86,7 +85,7 @@
       
       ```
 4. Write a program to accept number from user, until user press 0 to exit. Print the average of all the entered number.
-    - ```
+   ```
      Sample
      output : Enter an integer number, Press 0 to exit
      input : 10
@@ -112,7 +111,7 @@
     ```
 5. Write a program to accept number from user, until user press 0 to exit. Print the count of all the entered even
    number exclude 0.
-    - ```Sample
+   ```Sample
       output : Enter an integer number, Press 0 to exit
       input : 435
       output : Enter an integer number, Press 0 to exit
